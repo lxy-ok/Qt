@@ -10,5 +10,6 @@
 •	利用自定义控件和重写鼠标事件实现按钮的弹跳效果。
 
 Qt是打包发布给别人的运行版，anli是代码版
+![image](https://github.com/lokokokokokoko/Qt/assets/154768611/080630aa-adfc-46ad-acba-1e607dec6903)
 
 
